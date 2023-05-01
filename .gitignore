@@ -4,3 +4,4 @@ opensearch-requirements
 opensearchpy
 python
 tqdm
+pandas
