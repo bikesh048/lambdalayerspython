@@ -6,3 +6,4 @@ python
 tqdm
 pandas
 openai
+layers/*
